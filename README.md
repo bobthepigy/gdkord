@@ -1,4 +1,5 @@
-# GDKORD
+# bobthepig cord
+
 My personal powercord theme for powercord. Made for powercord/to be used on powercord. Works on powercord.
 
 ![Image 1](https://i.vgy.me/IIFxjj.png)
